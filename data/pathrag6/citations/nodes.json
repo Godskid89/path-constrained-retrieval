@@ -1,0 +1,272 @@
+[
+  {
+    "id": "citations_node_000",
+    "text": "Methodology for graph neural networks. Approach uses experimental validation.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "graph neural networks",
+      "node_index": 0
+    }
+  },
+  {
+    "id": "citations_node_001",
+    "text": "Experimental results for deep learning. Data shows promising outcomes.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 1
+    }
+  },
+  {
+    "id": "citations_node_002",
+    "text": "Research paper on reinforcement learning. Authors propose novel framework.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "reinforcement learning",
+      "node_index": 2
+    }
+  },
+  {
+    "id": "citations_node_003",
+    "text": "Citation network for reinforcement learning. Key references include seminal works.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "reinforcement learning",
+      "node_index": 3
+    }
+  },
+  {
+    "id": "citations_node_004",
+    "text": "Citation network for deep learning. Key references include seminal works.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 4
+    }
+  },
+  {
+    "id": "citations_node_005",
+    "text": "Literature review of reinforcement learning. Findings indicate significant improvements.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "reinforcement learning",
+      "node_index": 5
+    }
+  },
+  {
+    "id": "citations_node_006",
+    "text": "Literature review of natural language processing. Findings indicate significant improvements.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "natural language processing",
+      "node_index": 6
+    }
+  },
+  {
+    "id": "citations_node_007",
+    "text": "Methodology for computer vision. Approach uses experimental validation.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "computer vision",
+      "node_index": 7
+    }
+  },
+  {
+    "id": "citations_node_008",
+    "text": "Literature review of reinforcement learning. Findings indicate significant improvements.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "reinforcement learning",
+      "node_index": 8
+    }
+  },
+  {
+    "id": "citations_node_009",
+    "text": "Literature review of reinforcement learning. Findings indicate significant improvements.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "reinforcement learning",
+      "node_index": 9
+    }
+  },
+  {
+    "id": "citations_node_010",
+    "text": "Literature review of deep learning. Findings indicate significant improvements.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 10
+    }
+  },
+  {
+    "id": "citations_node_011",
+    "text": "Methodology for deep learning. Approach uses experimental validation.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 11
+    }
+  },
+  {
+    "id": "citations_node_012",
+    "text": "Experimental results for deep learning. Data shows promising outcomes.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 12
+    }
+  },
+  {
+    "id": "citations_node_013",
+    "text": "Literature review of natural language processing. Findings indicate significant improvements.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "natural language processing",
+      "node_index": 13
+    }
+  },
+  {
+    "id": "citations_node_014",
+    "text": "Research paper on deep learning. Authors propose novel framework.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 14
+    }
+  },
+  {
+    "id": "citations_node_015",
+    "text": "Research paper on natural language processing. Authors propose novel framework.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "natural language processing",
+      "node_index": 15
+    }
+  },
+  {
+    "id": "citations_node_016",
+    "text": "Citation network for deep learning. Key references include seminal works.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 16
+    }
+  },
+  {
+    "id": "citations_node_017",
+    "text": "Experimental results for natural language processing. Data shows promising outcomes.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "natural language processing",
+      "node_index": 17
+    }
+  },
+  {
+    "id": "citations_node_018",
+    "text": "Citation network for natural language processing. Key references include seminal works.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "natural language processing",
+      "node_index": 18
+    }
+  },
+  {
+    "id": "citations_node_019",
+    "text": "Methodology for deep learning. Approach uses experimental validation.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 19
+    }
+  },
+  {
+    "id": "citations_node_020",
+    "text": "Experimental results for natural language processing. Data shows promising outcomes.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "natural language processing",
+      "node_index": 20
+    }
+  },
+  {
+    "id": "citations_node_021",
+    "text": "Methodology for computer vision. Approach uses experimental validation.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "computer vision",
+      "node_index": 21
+    }
+  },
+  {
+    "id": "citations_node_022",
+    "text": "Literature review of natural language processing. Findings indicate significant improvements.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "natural language processing",
+      "node_index": 22
+    }
+  },
+  {
+    "id": "citations_node_023",
+    "text": "Experimental results for graph neural networks. Data shows promising outcomes.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "graph neural networks",
+      "node_index": 23
+    }
+  },
+  {
+    "id": "citations_node_024",
+    "text": "Research paper on natural language processing. Authors propose novel framework.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "natural language processing",
+      "node_index": 24
+    }
+  },
+  {
+    "id": "citations_node_025",
+    "text": "Literature review of deep learning. Findings indicate significant improvements.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 25
+    }
+  },
+  {
+    "id": "citations_node_026",
+    "text": "Experimental results for deep learning. Data shows promising outcomes.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 26
+    }
+  },
+  {
+    "id": "citations_node_027",
+    "text": "Literature review of graph neural networks. Findings indicate significant improvements.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "graph neural networks",
+      "node_index": 27
+    }
+  },
+  {
+    "id": "citations_node_028",
+    "text": "Methodology for reinforcement learning. Approach uses experimental validation.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "reinforcement learning",
+      "node_index": 28
+    }
+  },
+  {
+    "id": "citations_node_029",
+    "text": "Citation network for deep learning. Key references include seminal works.",
+    "metadata": {
+      "domain": "citations",
+      "topic": "deep learning",
+      "node_index": 29
+    }
+  }
+]

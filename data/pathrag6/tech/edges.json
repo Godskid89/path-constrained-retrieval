@@ -1,0 +1,302 @@
+[
+  {
+    "source": "tech_node_027",
+    "target": "tech_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_027",
+    "target": "tech_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_012",
+    "target": "tech_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_014",
+    "target": "tech_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_005",
+    "target": "tech_node_017",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_011",
+    "target": "tech_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_021",
+    "target": "tech_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_022",
+    "target": "tech_node_024",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_019",
+    "target": "tech_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_005",
+    "target": "tech_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_023",
+    "target": "tech_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_005",
+    "target": "tech_node_020",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_012",
+    "target": "tech_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_029",
+    "target": "tech_node_020",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_022",
+    "target": "tech_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_021",
+    "target": "tech_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_026",
+    "target": "tech_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_007",
+    "target": "tech_node_009",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_025",
+    "target": "tech_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_012",
+    "target": "tech_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_002",
+    "target": "tech_node_009",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_029",
+    "target": "tech_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_028",
+    "target": "tech_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_006",
+    "target": "tech_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_015",
+    "target": "tech_node_022",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_028",
+    "target": "tech_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_004",
+    "target": "tech_node_013",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_004",
+    "target": "tech_node_012",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_023",
+    "target": "tech_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_017",
+    "target": "tech_node_022",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_023",
+    "target": "tech_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_013",
+    "target": "tech_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_011",
+    "target": "tech_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_004",
+    "target": "tech_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_015",
+    "target": "tech_node_017",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_024",
+    "target": "tech_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_027",
+    "target": "tech_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_004",
+    "target": "tech_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_005",
+    "target": "tech_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_013",
+    "target": "tech_node_016",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_012",
+    "target": "tech_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_019",
+    "target": "tech_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_016",
+    "target": "tech_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_017",
+    "target": "tech_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_021",
+    "target": "tech_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_021",
+    "target": "tech_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_024",
+    "target": "tech_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_024",
+    "target": "tech_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_010",
+    "target": "tech_node_014",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_009",
+    "target": "tech_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_005",
+    "target": "tech_node_020",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_000",
+    "target": "tech_node_024",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_028",
+    "target": "tech_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_016",
+    "target": "tech_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_005",
+    "target": "tech_node_022",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_029",
+    "target": "tech_node_003",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_027",
+    "target": "tech_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_009",
+    "target": "tech_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_016",
+    "target": "tech_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "tech_node_006",
+    "target": "tech_node_011",
+    "weight": 1.0
+  }
+]

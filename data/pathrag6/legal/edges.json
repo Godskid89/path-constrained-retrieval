@@ -1,0 +1,302 @@
+[
+  {
+    "source": "legal_node_008",
+    "target": "legal_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_015",
+    "target": "legal_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_017",
+    "target": "legal_node_020",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_023",
+    "target": "legal_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_018",
+    "target": "legal_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_007",
+    "target": "legal_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_025",
+    "target": "legal_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_006",
+    "target": "legal_node_010",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_003",
+    "target": "legal_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_013",
+    "target": "legal_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_013",
+    "target": "legal_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_014",
+    "target": "legal_node_016",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_021",
+    "target": "legal_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_001",
+    "target": "legal_node_014",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_023",
+    "target": "legal_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_025",
+    "target": "legal_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_007",
+    "target": "legal_node_014",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_006",
+    "target": "legal_node_024",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_014",
+    "target": "legal_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_013",
+    "target": "legal_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_008",
+    "target": "legal_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_007",
+    "target": "legal_node_010",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_014",
+    "target": "legal_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_001",
+    "target": "legal_node_022",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_017",
+    "target": "legal_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_002",
+    "target": "legal_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_027",
+    "target": "legal_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_005",
+    "target": "legal_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_015",
+    "target": "legal_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_006",
+    "target": "legal_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_028",
+    "target": "legal_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_005",
+    "target": "legal_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_000",
+    "target": "legal_node_013",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_008",
+    "target": "legal_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_009",
+    "target": "legal_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_022",
+    "target": "legal_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_004",
+    "target": "legal_node_011",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_009",
+    "target": "legal_node_016",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_001",
+    "target": "legal_node_020",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_023",
+    "target": "legal_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_001",
+    "target": "legal_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_010",
+    "target": "legal_node_012",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_001",
+    "target": "legal_node_020",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_015",
+    "target": "legal_node_024",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_029",
+    "target": "legal_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_016",
+    "target": "legal_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_001",
+    "target": "legal_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_002",
+    "target": "legal_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_005",
+    "target": "legal_node_008",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_019",
+    "target": "legal_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_021",
+    "target": "legal_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_012",
+    "target": "legal_node_016",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_028",
+    "target": "legal_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_018",
+    "target": "legal_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_001",
+    "target": "legal_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_002",
+    "target": "legal_node_016",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_021",
+    "target": "legal_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_010",
+    "target": "legal_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_006",
+    "target": "legal_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "legal_node_022",
+    "target": "legal_node_028",
+    "weight": 1.0
+  }
+]

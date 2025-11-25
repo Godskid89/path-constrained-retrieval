@@ -1,0 +1,272 @@
+[
+  {
+    "id": "legal_node_000",
+    "text": "Compliance requirements for contract law. Organizations must maintain accurate records.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "contract law",
+      "node_index": 0
+    }
+  },
+  {
+    "id": "legal_node_001",
+    "text": "Jurisdictional considerations for corporate governance. Courts have ruled jurisdiction applies.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "corporate governance",
+      "node_index": 1
+    }
+  },
+  {
+    "id": "legal_node_002",
+    "text": "Legal framework for corporate governance. Key regulations include data protection laws.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "corporate governance",
+      "node_index": 2
+    }
+  },
+  {
+    "id": "legal_node_003",
+    "text": "Compliance requirements for taxation. Organizations must maintain accurate records.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "taxation",
+      "node_index": 3
+    }
+  },
+  {
+    "id": "legal_node_004",
+    "text": "Legal framework for intellectual property. Key regulations include data protection laws.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "intellectual property",
+      "node_index": 4
+    }
+  },
+  {
+    "id": "legal_node_005",
+    "text": "Compliance requirements for employment law. Organizations must maintain accurate records.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "employment law",
+      "node_index": 5
+    }
+  },
+  {
+    "id": "legal_node_006",
+    "text": "Case law analysis on intellectual property. Precedents establish fair use doctrine.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "intellectual property",
+      "node_index": 6
+    }
+  },
+  {
+    "id": "legal_node_007",
+    "text": "Case law analysis on corporate governance. Precedents establish fair use doctrine.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "corporate governance",
+      "node_index": 7
+    }
+  },
+  {
+    "id": "legal_node_008",
+    "text": "Legal framework for intellectual property. Key regulations include data protection laws.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "intellectual property",
+      "node_index": 8
+    }
+  },
+  {
+    "id": "legal_node_009",
+    "text": "Contractual obligations regarding intellectual property. Parties agree to deliver services on time.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "intellectual property",
+      "node_index": 9
+    }
+  },
+  {
+    "id": "legal_node_010",
+    "text": "Jurisdictional considerations for contract law. Courts have ruled jurisdiction applies.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "contract law",
+      "node_index": 10
+    }
+  },
+  {
+    "id": "legal_node_011",
+    "text": "Case law analysis on taxation. Precedents establish fair use doctrine.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "taxation",
+      "node_index": 11
+    }
+  },
+  {
+    "id": "legal_node_012",
+    "text": "Jurisdictional considerations for contract law. Courts have ruled jurisdiction applies.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "contract law",
+      "node_index": 12
+    }
+  },
+  {
+    "id": "legal_node_013",
+    "text": "Compliance requirements for corporate governance. Organizations must maintain accurate records.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "corporate governance",
+      "node_index": 13
+    }
+  },
+  {
+    "id": "legal_node_014",
+    "text": "Jurisdictional considerations for taxation. Courts have ruled jurisdiction applies.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "taxation",
+      "node_index": 14
+    }
+  },
+  {
+    "id": "legal_node_015",
+    "text": "Case law analysis on corporate governance. Precedents establish fair use doctrine.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "corporate governance",
+      "node_index": 15
+    }
+  },
+  {
+    "id": "legal_node_016",
+    "text": "Case law analysis on employment law. Precedents establish fair use doctrine.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "employment law",
+      "node_index": 16
+    }
+  },
+  {
+    "id": "legal_node_017",
+    "text": "Contractual obligations regarding employment law. Parties agree to deliver services on time.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "employment law",
+      "node_index": 17
+    }
+  },
+  {
+    "id": "legal_node_018",
+    "text": "Contractual obligations regarding corporate governance. Parties agree to deliver services on time.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "corporate governance",
+      "node_index": 18
+    }
+  },
+  {
+    "id": "legal_node_019",
+    "text": "Contractual obligations regarding intellectual property. Parties agree to deliver services on time.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "intellectual property",
+      "node_index": 19
+    }
+  },
+  {
+    "id": "legal_node_020",
+    "text": "Case law analysis on contract law. Precedents establish fair use doctrine.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "contract law",
+      "node_index": 20
+    }
+  },
+  {
+    "id": "legal_node_021",
+    "text": "Legal framework for employment law. Key regulations include data protection laws.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "employment law",
+      "node_index": 21
+    }
+  },
+  {
+    "id": "legal_node_022",
+    "text": "Legal framework for corporate governance. Key regulations include data protection laws.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "corporate governance",
+      "node_index": 22
+    }
+  },
+  {
+    "id": "legal_node_023",
+    "text": "Jurisdictional considerations for contract law. Courts have ruled jurisdiction applies.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "contract law",
+      "node_index": 23
+    }
+  },
+  {
+    "id": "legal_node_024",
+    "text": "Jurisdictional considerations for contract law. Courts have ruled jurisdiction applies.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "contract law",
+      "node_index": 24
+    }
+  },
+  {
+    "id": "legal_node_025",
+    "text": "Legal framework for intellectual property. Key regulations include data protection laws.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "intellectual property",
+      "node_index": 25
+    }
+  },
+  {
+    "id": "legal_node_026",
+    "text": "Legal framework for contract law. Key regulations include data protection laws.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "contract law",
+      "node_index": 26
+    }
+  },
+  {
+    "id": "legal_node_027",
+    "text": "Legal framework for intellectual property. Key regulations include data protection laws.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "intellectual property",
+      "node_index": 27
+    }
+  },
+  {
+    "id": "legal_node_028",
+    "text": "Compliance requirements for intellectual property. Organizations must maintain accurate records.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "intellectual property",
+      "node_index": 28
+    }
+  },
+  {
+    "id": "legal_node_029",
+    "text": "Jurisdictional considerations for contract law. Courts have ruled jurisdiction applies.",
+    "metadata": {
+      "domain": "legal",
+      "topic": "contract law",
+      "node_index": 29
+    }
+  }
+]

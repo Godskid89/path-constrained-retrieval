@@ -1,0 +1,272 @@
+[
+  {
+    "id": "tech_node_000",
+    "text": "Introduction to cloud computing. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "cloud computing",
+      "node_index": 0
+    }
+  },
+  {
+    "id": "tech_node_001",
+    "text": "Implementation details for machine learning. Best practices involve testing and documentation.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "machine learning",
+      "node_index": 1
+    }
+  },
+  {
+    "id": "tech_node_002",
+    "text": "Advanced concepts in machine learning. Key principles include modularity and abstraction.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "machine learning",
+      "node_index": 2
+    }
+  },
+  {
+    "id": "tech_node_003",
+    "text": "Introduction to networking. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 3
+    }
+  },
+  {
+    "id": "tech_node_004",
+    "text": "Introduction to networking. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 4
+    }
+  },
+  {
+    "id": "tech_node_005",
+    "text": "Architecture patterns for cloud computing. Common approaches use layered architecture.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "cloud computing",
+      "node_index": 5
+    }
+  },
+  {
+    "id": "tech_node_006",
+    "text": "Introduction to cloud computing. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "cloud computing",
+      "node_index": 6
+    }
+  },
+  {
+    "id": "tech_node_007",
+    "text": "Advanced concepts in machine learning. Key principles include modularity and abstraction.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "machine learning",
+      "node_index": 7
+    }
+  },
+  {
+    "id": "tech_node_008",
+    "text": "Performance optimization in networking. Critical factors are latency and throughput.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 8
+    }
+  },
+  {
+    "id": "tech_node_009",
+    "text": "Introduction to networking. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 9
+    }
+  },
+  {
+    "id": "tech_node_010",
+    "text": "Advanced concepts in networking. Key principles include modularity and abstraction.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 10
+    }
+  },
+  {
+    "id": "tech_node_011",
+    "text": "Architecture patterns for machine learning. Common approaches use layered architecture.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "machine learning",
+      "node_index": 11
+    }
+  },
+  {
+    "id": "tech_node_012",
+    "text": "Architecture patterns for networking. Common approaches use layered architecture.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 12
+    }
+  },
+  {
+    "id": "tech_node_013",
+    "text": "Implementation details for cloud computing. Best practices involve testing and documentation.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "cloud computing",
+      "node_index": 13
+    }
+  },
+  {
+    "id": "tech_node_014",
+    "text": "Advanced concepts in databases. Key principles include modularity and abstraction.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "databases",
+      "node_index": 14
+    }
+  },
+  {
+    "id": "tech_node_015",
+    "text": "Implementation details for distributed systems. Best practices involve testing and documentation.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "distributed systems",
+      "node_index": 15
+    }
+  },
+  {
+    "id": "tech_node_016",
+    "text": "Advanced concepts in machine learning. Key principles include modularity and abstraction.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "machine learning",
+      "node_index": 16
+    }
+  },
+  {
+    "id": "tech_node_017",
+    "text": "Implementation details for cloud computing. Best practices involve testing and documentation.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "cloud computing",
+      "node_index": 17
+    }
+  },
+  {
+    "id": "tech_node_018",
+    "text": "Introduction to databases. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "databases",
+      "node_index": 18
+    }
+  },
+  {
+    "id": "tech_node_019",
+    "text": "Introduction to distributed systems. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "distributed systems",
+      "node_index": 19
+    }
+  },
+  {
+    "id": "tech_node_020",
+    "text": "Implementation details for networking. Best practices involve testing and documentation.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 20
+    }
+  },
+  {
+    "id": "tech_node_021",
+    "text": "Implementation details for cloud computing. Best practices involve testing and documentation.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "cloud computing",
+      "node_index": 21
+    }
+  },
+  {
+    "id": "tech_node_022",
+    "text": "Architecture patterns for networking. Common approaches use layered architecture.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 22
+    }
+  },
+  {
+    "id": "tech_node_023",
+    "text": "Introduction to databases. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "databases",
+      "node_index": 23
+    }
+  },
+  {
+    "id": "tech_node_024",
+    "text": "Introduction to networking. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 24
+    }
+  },
+  {
+    "id": "tech_node_025",
+    "text": "Implementation details for networking. Best practices involve testing and documentation.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 25
+    }
+  },
+  {
+    "id": "tech_node_026",
+    "text": "Implementation details for networking. Best practices involve testing and documentation.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "networking",
+      "node_index": 26
+    }
+  },
+  {
+    "id": "tech_node_027",
+    "text": "Advanced concepts in cloud computing. Key principles include modularity and abstraction.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "cloud computing",
+      "node_index": 27
+    }
+  },
+  {
+    "id": "tech_node_028",
+    "text": "Introduction to machine learning. This technology enables scalability and reliability.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "machine learning",
+      "node_index": 28
+    }
+  },
+  {
+    "id": "tech_node_029",
+    "text": "Implementation details for cloud computing. Best practices involve testing and documentation.",
+    "metadata": {
+      "domain": "tech",
+      "topic": "cloud computing",
+      "node_index": 29
+    }
+  }
+]

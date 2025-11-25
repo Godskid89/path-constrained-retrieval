@@ -1,0 +1,281 @@
+{
+  "tech": [
+    {
+      "id": "tech_001",
+      "anchor": "tech_node_000",
+      "query": "What are the key principles of cloud computing architecture?",
+      "relevant_nodes": [
+        "tech_node_000",
+        "tech_node_027",
+        "tech_node_029"
+      ]
+    },
+    {
+      "id": "tech_002",
+      "anchor": "tech_node_015",
+      "query": "How do distributed systems handle consistency?",
+      "relevant_nodes": [
+        "tech_node_015"
+      ]
+    },
+    {
+      "id": "tech_003",
+      "anchor": "tech_node_000",
+      "query": "How does cloud computing enable scalability?",
+      "relevant_nodes": [
+        "tech_node_000",
+        "tech_node_027"
+      ]
+    },
+    {
+      "id": "tech_004",
+      "anchor": "tech_node_005",
+      "query": "What architecture patterns are used in cloud computing?",
+      "relevant_nodes": [
+        "tech_node_005"
+      ]
+    },
+    {
+      "id": "tech_005",
+      "anchor": "tech_node_013",
+      "query": "What are the implementation details for cloud computing?",
+      "relevant_nodes": [
+        "tech_node_013",
+        "tech_node_029"
+      ]
+    },
+    {
+      "id": "tech_006",
+      "anchor": "tech_node_028",
+      "query": "What is machine learning?",
+      "relevant_nodes": [
+        "tech_node_028"
+      ]
+    },
+    {
+      "id": "tech_007",
+      "anchor": "tech_node_001",
+      "query": "How do you implement machine learning systems?",
+      "relevant_nodes": [
+        "tech_node_001"
+      ]
+    },
+    {
+      "id": "tech_008",
+      "anchor": "tech_node_003",
+      "query": "What is networking technology?",
+      "relevant_nodes": [
+        "tech_node_003"
+      ]
+    },
+    {
+      "id": "tech_009",
+      "anchor": "tech_node_014",
+      "query": "What are databases?",
+      "relevant_nodes": [
+        "tech_node_014"
+      ]
+    },
+    {
+      "id": "tech_010",
+      "anchor": "tech_node_018",
+      "query": "How do databases enable scalability?",
+      "relevant_nodes": [
+        "tech_node_018"
+      ]
+    },
+    {
+      "id": "tech_011",
+      "anchor": "tech_node_000",
+      "query": "What are the benefits of cloud computing?",
+      "relevant_nodes": [
+        "tech_node_000",
+        "tech_node_027"
+      ]
+    },
+    {
+      "id": "tech_012",
+      "anchor": "tech_node_015",
+      "query": "What are distributed systems?",
+      "relevant_nodes": [
+        "tech_node_015"
+      ]
+    },
+    {
+      "id": "tech_013",
+      "anchor": "tech_node_005",
+      "query": "What are common cloud architecture patterns?",
+      "relevant_nodes": [
+        "tech_node_005"
+      ]
+    },
+    {
+      "id": "tech_014",
+      "anchor": "tech_node_027",
+      "query": "What are advanced cloud computing concepts?",
+      "relevant_nodes": [
+        "tech_node_027"
+      ]
+    },
+    {
+      "id": "tech_015",
+      "anchor": "tech_node_029",
+      "query": "What are cloud computing best practices?",
+      "relevant_nodes": [
+        "tech_node_029"
+      ]
+    },
+    {
+      "id": "tech_016",
+      "anchor": "tech_node_000",
+      "query": "How does cloud computing work?",
+      "relevant_nodes": [
+        "tech_node_000",
+        "tech_node_027"
+      ]
+    },
+    {
+      "id": "tech_017",
+      "anchor": "tech_node_013",
+      "query": "How to implement cloud computing solutions?",
+      "relevant_nodes": [
+        "tech_node_013",
+        "tech_node_029"
+      ]
+    },
+    {
+      "id": "tech_018",
+      "anchor": "tech_node_017",
+      "query": "What are cloud computing implementation details?",
+      "relevant_nodes": [
+        "tech_node_017"
+      ]
+    },
+    {
+      "id": "tech_019",
+      "anchor": "tech_node_021",
+      "query": "What practices are involved in cloud computing?",
+      "relevant_nodes": [
+        "tech_node_021"
+      ]
+    },
+    {
+      "id": "tech_020",
+      "anchor": "tech_node_006",
+      "query": "Introduction to cloud computing technology",
+      "relevant_nodes": [
+        "tech_node_006"
+      ]
+    }
+  ],
+  "legal": [
+    {
+      "id": "legal_001",
+      "anchor": "legal_node_000",
+      "query": "What are the compliance requirements for data protection?",
+      "relevant_nodes": [
+        "legal_node_001",
+        "legal_node_003",
+        "legal_node_007"
+      ]
+    },
+    {
+      "id": "legal_002",
+      "anchor": "legal_node_010",
+      "query": "How does intellectual property law apply to software?",
+      "relevant_nodes": [
+        "legal_node_011",
+        "legal_node_015",
+        "legal_node_020"
+      ]
+    }
+  ],
+  "bio": [
+    {
+      "id": "bio_001",
+      "anchor": "bio_node_000",
+      "query": "What are the mechanisms of cellular respiration?",
+      "relevant_nodes": [
+        "bio_node_001",
+        "bio_node_005",
+        "bio_node_008"
+      ]
+    },
+    {
+      "id": "bio_002",
+      "anchor": "bio_node_012",
+      "query": "How do genetic variations affect phenotypic expression?",
+      "relevant_nodes": [
+        "bio_node_013",
+        "bio_node_018",
+        "bio_node_022"
+      ]
+    }
+  ],
+  "microservices": [
+    {
+      "id": "microservices_001",
+      "anchor": "microservices_node_000",
+      "query": "How do microservices communicate with each other?",
+      "relevant_nodes": [
+        "microservices_node_001",
+        "microservices_node_004",
+        "microservices_node_009"
+      ]
+    },
+    {
+      "id": "microservices_002",
+      "anchor": "microservices_node_015",
+      "query": "What are the best practices for service decomposition?",
+      "relevant_nodes": [
+        "microservices_node_016",
+        "microservices_node_020",
+        "microservices_node_025"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "id": "citations_001",
+      "anchor": "citations_node_000",
+      "query": "What are the recent advances in deep learning?",
+      "relevant_nodes": [
+        "citations_node_001",
+        "citations_node_005",
+        "citations_node_010"
+      ]
+    },
+    {
+      "id": "citations_002",
+      "anchor": "citations_node_015",
+      "query": "How do graph neural networks work?",
+      "relevant_nodes": [
+        "citations_node_016",
+        "citations_node_020",
+        "citations_node_025"
+      ]
+    }
+  ],
+  "medical": [
+    {
+      "id": "medical_001",
+      "anchor": "medical_node_000",
+      "query": "What are the treatment protocols for cardiovascular disease?",
+      "relevant_nodes": [
+        "medical_node_001",
+        "medical_node_004",
+        "medical_node_008"
+      ]
+    },
+    {
+      "id": "medical_002",
+      "anchor": "medical_node_012",
+      "query": "How do medications interact with metabolic pathways?",
+      "relevant_nodes": [
+        "medical_node_013",
+        "medical_node_018",
+        "medical_node_022"
+      ]
+    }
+  ]
+}

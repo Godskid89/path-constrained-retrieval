@@ -1,0 +1,302 @@
+[
+  {
+    "source": "citations_node_018",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_026",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_003",
+    "target": "citations_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_024",
+    "target": "citations_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_027",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_019",
+    "target": "citations_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_025",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_025",
+    "target": "citations_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_011",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_013",
+    "target": "citations_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_002",
+    "target": "citations_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_020",
+    "target": "citations_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_000",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_013",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_003",
+    "target": "citations_node_017",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_011",
+    "target": "citations_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_022",
+    "target": "citations_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_013",
+    "target": "citations_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_023",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_020",
+    "target": "citations_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_019",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_024",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_014",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_026",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_010",
+    "target": "citations_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_026",
+    "target": "citations_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_008",
+    "target": "citations_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_007",
+    "target": "citations_node_022",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_018",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_021",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_010",
+    "target": "citations_node_011",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_015",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_010",
+    "target": "citations_node_016",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_015",
+    "target": "citations_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_011",
+    "target": "citations_node_020",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_010",
+    "target": "citations_node_019",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_028",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_017",
+    "target": "citations_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_016",
+    "target": "citations_node_020",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_002",
+    "target": "citations_node_010",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_023",
+    "target": "citations_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_015",
+    "target": "citations_node_024",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_024",
+    "target": "citations_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_022",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_020",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_014",
+    "target": "citations_node_015",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_002",
+    "target": "citations_node_012",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_007",
+    "target": "citations_node_020",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_022",
+    "target": "citations_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_009",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_011",
+    "target": "citations_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_017",
+    "target": "citations_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_011",
+    "target": "citations_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_023",
+    "target": "citations_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_010",
+    "target": "citations_node_022",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_022",
+    "target": "citations_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_008",
+    "target": "citations_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_008",
+    "target": "citations_node_016",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_003",
+    "target": "citations_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "citations_node_006",
+    "target": "citations_node_017",
+    "weight": 1.0
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "medical_node_000",
+    "text": "Medical diagnosis of immunology. Symptoms include fever and fatigue.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "immunology",
+      "node_index": 0
+    }
+  },
+  {
+    "id": "medical_node_001",
+    "text": "Treatment protocols for oncology. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "oncology",
+      "node_index": 1
+    }
+  },
+  {
+    "id": "medical_node_002",
+    "text": "Treatment protocols for neurology. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "neurology",
+      "node_index": 2
+    }
+  },
+  {
+    "id": "medical_node_003",
+    "text": "Drug interactions with immunology. Medications affect metabolic pathways.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "immunology",
+      "node_index": 3
+    }
+  },
+  {
+    "id": "medical_node_004",
+    "text": "Research evidence on immunology. Studies demonstrate clinical efficacy.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "immunology",
+      "node_index": 4
+    }
+  },
+  {
+    "id": "medical_node_005",
+    "text": "Drug interactions with cardiology. Medications affect metabolic pathways.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "cardiology",
+      "node_index": 5
+    }
+  },
+  {
+    "id": "medical_node_006",
+    "text": "Treatment protocols for pediatrics. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "pediatrics",
+      "node_index": 6
+    }
+  },
+  {
+    "id": "medical_node_007",
+    "text": "Treatment protocols for pediatrics. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "pediatrics",
+      "node_index": 7
+    }
+  },
+  {
+    "id": "medical_node_008",
+    "text": "Treatment protocols for pediatrics. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "pediatrics",
+      "node_index": 8
+    }
+  },
+  {
+    "id": "medical_node_009",
+    "text": "Medical diagnosis of immunology. Symptoms include fever and fatigue.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "immunology",
+      "node_index": 9
+    }
+  },
+  {
+    "id": "medical_node_010",
+    "text": "Treatment protocols for pediatrics. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "pediatrics",
+      "node_index": 10
+    }
+  },
+  {
+    "id": "medical_node_011",
+    "text": "Medical diagnosis of cardiology. Symptoms include fever and fatigue.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "cardiology",
+      "node_index": 11
+    }
+  },
+  {
+    "id": "medical_node_012",
+    "text": "Research evidence on pediatrics. Studies demonstrate clinical efficacy.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "pediatrics",
+      "node_index": 12
+    }
+  },
+  {
+    "id": "medical_node_013",
+    "text": "Treatment protocols for neurology. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "neurology",
+      "node_index": 13
+    }
+  },
+  {
+    "id": "medical_node_014",
+    "text": "Medical diagnosis of cardiology. Symptoms include fever and fatigue.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "cardiology",
+      "node_index": 14
+    }
+  },
+  {
+    "id": "medical_node_015",
+    "text": "Research evidence on pediatrics. Studies demonstrate clinical efficacy.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "pediatrics",
+      "node_index": 15
+    }
+  },
+  {
+    "id": "medical_node_016",
+    "text": "Patient care guidelines for neurology. Procedures require informed consent.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "neurology",
+      "node_index": 16
+    }
+  },
+  {
+    "id": "medical_node_017",
+    "text": "Patient care guidelines for pediatrics. Procedures require informed consent.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "pediatrics",
+      "node_index": 17
+    }
+  },
+  {
+    "id": "medical_node_018",
+    "text": "Treatment protocols for cardiology. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "cardiology",
+      "node_index": 18
+    }
+  },
+  {
+    "id": "medical_node_019",
+    "text": "Drug interactions with neurology. Medications affect metabolic pathways.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "neurology",
+      "node_index": 19
+    }
+  },
+  {
+    "id": "medical_node_020",
+    "text": "Medical diagnosis of cardiology. Symptoms include fever and fatigue.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "cardiology",
+      "node_index": 20
+    }
+  },
+  {
+    "id": "medical_node_021",
+    "text": "Patient care guidelines for neurology. Procedures require informed consent.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "neurology",
+      "node_index": 21
+    }
+  },
+  {
+    "id": "medical_node_022",
+    "text": "Medical diagnosis of immunology. Symptoms include fever and fatigue.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "immunology",
+      "node_index": 22
+    }
+  },
+  {
+    "id": "medical_node_023",
+    "text": "Medical diagnosis of oncology. Symptoms include fever and fatigue.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "oncology",
+      "node_index": 23
+    }
+  },
+  {
+    "id": "medical_node_024",
+    "text": "Treatment protocols for immunology. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "immunology",
+      "node_index": 24
+    }
+  },
+  {
+    "id": "medical_node_025",
+    "text": "Drug interactions with cardiology. Medications affect metabolic pathways.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "cardiology",
+      "node_index": 25
+    }
+  },
+  {
+    "id": "medical_node_026",
+    "text": "Treatment protocols for cardiology. Therapies involve medication and rest.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "cardiology",
+      "node_index": 26
+    }
+  },
+  {
+    "id": "medical_node_027",
+    "text": "Research evidence on neurology. Studies demonstrate clinical efficacy.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "neurology",
+      "node_index": 27
+    }
+  },
+  {
+    "id": "medical_node_028",
+    "text": "Research evidence on immunology. Studies demonstrate clinical efficacy.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "immunology",
+      "node_index": 28
+    }
+  },
+  {
+    "id": "medical_node_029",
+    "text": "Research evidence on oncology. Studies demonstrate clinical efficacy.",
+    "metadata": {
+      "domain": "medical",
+      "topic": "oncology",
+      "node_index": 29
+    }
+  }
+]

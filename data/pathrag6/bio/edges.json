@@ -1,0 +1,302 @@
+[
+  {
+    "source": "bio_node_023",
+    "target": "bio_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_017",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_013",
+    "target": "bio_node_014",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_003",
+    "target": "bio_node_006",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_028",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_017",
+    "target": "bio_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_026",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_018",
+    "target": "bio_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_004",
+    "target": "bio_node_018",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_004",
+    "target": "bio_node_006",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_009",
+    "target": "bio_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_028",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_028",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_006",
+    "target": "bio_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_007",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_003",
+    "target": "bio_node_015",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_024",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_028",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_019",
+    "target": "bio_node_022",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_029",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_007",
+    "target": "bio_node_013",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_025",
+    "target": "bio_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_028",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_000",
+    "target": "bio_node_006",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_023",
+    "target": "bio_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_025",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_025",
+    "target": "bio_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_008",
+    "target": "bio_node_014",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_025",
+    "target": "bio_node_026",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_012",
+    "target": "bio_node_014",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_027",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_007",
+    "target": "bio_node_014",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_026",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_011",
+    "target": "bio_node_021",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_026",
+    "target": "bio_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_007",
+    "target": "bio_node_008",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_021",
+    "target": "bio_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_012",
+    "target": "bio_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_008",
+    "target": "bio_node_011",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_024",
+    "target": "bio_node_027",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_011",
+    "target": "bio_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_012",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_010",
+    "target": "bio_node_011",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_003",
+    "target": "bio_node_012",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_005",
+    "target": "bio_node_024",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_008",
+    "target": "bio_node_010",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_003",
+    "target": "bio_node_023",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_013",
+    "target": "bio_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_023",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_010",
+    "target": "bio_node_024",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_019",
+    "target": "bio_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_003",
+    "target": "bio_node_016",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_028",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_008",
+    "target": "bio_node_010",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_022",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_000",
+    "target": "bio_node_017",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_029",
+    "target": "bio_node_025",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_017",
+    "target": "bio_node_028",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_023",
+    "target": "bio_node_029",
+    "weight": 1.0
+  },
+  {
+    "source": "bio_node_023",
+    "target": "bio_node_029",
+    "weight": 1.0
+  }
+]
