@@ -362,7 +362,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request.
+Contributions are welcome! We're especially looking for:
+
+- **More data for PathRAG-6**: Help expand the benchmark with additional domains or more nodes/edges for existing domains
+- **Code improvements**: Bug fixes, performance optimizations, new features
+- **Documentation**: Improvements to docs, examples, tutorials
+
+Please open an issue or submit a pull request. For data contributions, see the `data/pathrag6/` directory structure and follow the same format.
 
 ## Contact
 

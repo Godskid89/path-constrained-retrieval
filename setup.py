@@ -9,13 +9,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="path-constrained-retrieval",
     version="0.1.0",
-    author="ML Systems Engineer",
+    author="Joseph Oladokun",
     description="Path-Constrained Retrieval: A Structural Approach to Reliable LLM Agent Reasoning",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
-    python_requires=">=3.10",
     python_requires=">=3.10",
     install_requires=requirements,
     classifiers=[
