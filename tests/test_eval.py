@@ -27,7 +27,7 @@ def test_relevance_at_k():
 
 
 def test_hallucination_score():
-    """Test hallucination score."""
+    """Test structural inconsistency score (formerly hallucination score)."""
     graph = GraphBuilder()
     graph.add_node("node1", "Text 1")
     graph.add_node("node2", "Text 2")
@@ -38,6 +38,7 @@ def test_hallucination_score():
     
     # node2 is reachable, node3 is not
     retrieved = ["node2", "node3"]
+    # Note: method is still called hallucination_score internally
     score = evaluator.hallucination_score(retrieved, "node1")
     
     assert 0.0 <= score <= 1.0

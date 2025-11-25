@@ -203,7 +203,7 @@ bash scripts/run_evaluation.sh
 The system implements several evaluation metrics:
 
 1. **Relevance@K**: Fraction of relevant nodes in top-K results
-2. **Hallucination Score**: Fraction of retrieved nodes that are unreachable from anchor
+2. **Structural Inconsistency Score**: Fraction of retrieved nodes that are unreachable from anchor
 3. **Multi-hop Consistency**: Consistency of path lengths in retrieved nodes
 4. **Graph Distance Penalty**: Penalty for retrieving distant nodes
 
