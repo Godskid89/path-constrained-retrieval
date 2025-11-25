@@ -23,7 +23,7 @@ def test_relevance_at_k():
     assert rel_at_1 == 1.0  # node1 is relevant
     
     rel_at_2 = evaluator.relevance_at_k(retrieved, relevant, k=2)
-    assert rel_at_2 == 1.0  # Both node1 and node3 (but node3 not relevant, so 1/2?)
+    assert rel_at_2 == 0.5  # Top 2 are [node1, node3], only node1 is relevant, so 1/2 = 0.5
 
 
 def test_hallucination_score():
